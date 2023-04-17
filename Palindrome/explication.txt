@@ -1,0 +1,13 @@
+Savez-vous ce qu'est un palindrome ?
+
+C'est un mot qui se ressemble lorsqu'il est lu en avant et en arrière. Par exemple, "kayak" est un palindrome, alors que "loyal" ne l'est pas.
+
+Votre tâche consiste à écrire un programme qui :
+
+demande du texte à l'utilisateur ;
+vérifie si le texte saisi est un palindrome et imprime le résultat.
+Note:
+
+supposons qu'une chaîne vide n'est pas un palindrome ;
+traiter les lettres majuscules et minuscules comme égales ;
+les espaces ne sont pas pris en compte lors de la vérification - traitez-les comme inexistants ;
