@@ -1,0 +1,14 @@
+Certains disent que le chiffre de la vie est un chiffre évalué à l'aide de l'anniversaire de quelqu'un. 
+C'est simple, il vous suffit d'additionner tous les chiffres de la date. Si le résultat contient plus d'un chiffre, 
+vous devez répéter l'addition jusqu'à ce que vous obteniez exactement un chiffre. 
+Par exemple:
+
+1er janvier 2017 = 2017 01 01
+2 + 0 + 1 + 7 + 0 + 1 + 0 + 1 = 12
+1 + 2 = 3
+3 est le chiffre que nous avons cherché et trouvé.
+
+Votre tâche consiste à écrire un programme qui :
+
+demande à l'utilisateur sa date de naissance (au format AAAAMMJJ, ou AAAAJJMM, ou MMJJAAAA - en fait, l'ordre des chiffres n'a pas d'importance)
+sort le chiffre de la vie pour la date.
